@@ -1,25 +1,15 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-        <link href="styles/style.css" rel="stylesheet">
-        <meta charset="utf-8">
-        <title>MaterazzivsZidane</title>
-    </head>
-    <body>
-        <h1>Zidane ha fatto una cagata</h1>
-        <img src="images/download.jpg" alt="download">
-        <p>Se Zidane non avesse fatto quella cagata, l'Italia non avrebbe vinto i mondiali 2006</p>
+<head>
+    <meta charset="utf-8">
+    <title>AntonioBisacciamerda</title>
+</head>
+<body>
+    <img src="download (1).jpg" alt="paperella">
+    <audio controls>
+     <source src="1_5s_to_33s_Suono_Trombetta_per_Bicicletta___Rumor.mp3" type="audio/mp3">
+     <p>Your browser doesn't support HTML5 audio. Here is a <a href="1_5s_to_33s_Suono_Trombetta_per_Bicicletta___Rumor.mp3">link to the audio</a> instead.</p>
+    </audio>
+</body>
 
-        <o1>
-            <li>Era in gran forma</li>
-            <li>Ha battuto quasi da solo il grande Brasile</li>
-            <li>Era il G.O.A.T</li>
-        </o1>
-
-        <p>che idiota che è stato</p>
-        <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">Grazie</a>
-        <button>Change user</button>
-        <script src="scripts/main.js"></script>
-    </body>
 </html>
